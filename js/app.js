@@ -60,8 +60,6 @@ function init(){
 
 	//draw on the canvas
 	stage.update(); 
-	//add event listener to the window.
-	createjs.Ticker.addEventListener(window);
 }
 
 //event handler for the shapes
